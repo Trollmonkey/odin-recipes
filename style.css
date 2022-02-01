@@ -1,0 +1,32 @@
+.headings {
+    font-family: Cookie, Times, sans-serif;
+    font-size: 48px;
+}
+
+.subheadings {
+    font-family: Cookie, Times, sans-serif;
+    font-size: 32px;
+}
+
+.links {
+    font-family: Cookie, Times, sans-serif;
+    font-size: 32px;
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+.legible {
+    font-family: Times, sans-serif;
+    font-size: 20px;
+}
+
+.descriptions {
+    font-family: Cookie, Times, sans-serif;
+    font-size: 26px;
+}
+ol {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
