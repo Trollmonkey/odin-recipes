@@ -1,11 +1,14 @@
 @import url('http://fonts.googleapis.com/css?family=Cookie&display=swap');
-
+@font-face {
+    font-family: 'BlackJack';
+    src: url('/blackjackw05.woff2') format('woff2');
+  }
 body {
     background-color:rgb(199, 170, 118);text-align: center
 }
 
 .headings {
-    font-family: Cookie, Times, sans-serif;
+    font-family: BlackJack, Cookie, Times, sans-serif;
     font-size: 48px;
 }
 
