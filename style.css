@@ -24,7 +24,7 @@ body {
     font-size: 26px;
 }
 .legible {
-    font-family: Times, sans-serif;
+    font-family:"Open Sans", Times, sans-serif;
     font-size: 20px;
     display: table; 
     margin: 0 auto;
